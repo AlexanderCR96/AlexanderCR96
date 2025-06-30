@@ -24,8 +24,8 @@
 
 ## 📫 ¿Cómo contactarme?
 - Email: **alexander.96cr@gmail.com** <!-- Reemplaza con tu correo -->
-- LinkedIn: [linkedin.com/in/tuusuario]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alexander-coello/)) <!-- Reemplaza con tu perfil real -->
-- GitHub: [github.com/tuusuario]([https://github.com/tuusuario](https://github.com/AlexanderCR96)) <!-- Reemplaza con tu usuario real -->
+- LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/alexander-coello/) <!-- Reemplaza con tu perfil real -->
+- GitHub: [github.com/tuusuario](https://github.com/AlexanderCR96)) <!-- Reemplaza con tu usuario real -->
 
 ---
 
