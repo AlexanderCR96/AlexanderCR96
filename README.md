@@ -18,9 +18,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame
 <p align="center">
-	<a href="alexander.96cr@gmail.com"><img img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail"/></a>
-	<a href="https://github.com/AlexanderCR96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/alexander-coello"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn"/></a>	
+	<a href="alexander.96cr@gmail.com"><img img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="50px"/></a>
+	<a href="https://github.com/AlexanderCR96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/alexander-coello"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50px"/></a>	
 </p>
 
 
