@@ -13,6 +13,7 @@
 - :computer: Me apasiona crear soluciones eficientes usando software como herramienta clave..
 - :student: He participado en proyectos universitarios de investigación y desarrollo de software.
 - :books: Actualmente sigo aprendiendo sobre microservicios, seguridad informática y arquitectura en la nube.
+- :email: <a  href="alexander.96cr@gmail.com"> 
 <br>
 
 
