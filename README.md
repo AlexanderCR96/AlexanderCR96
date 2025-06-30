@@ -8,20 +8,20 @@
 
 <br><br>
 
--:school: Soy Ingeniero en Sistemas de Información, de la [Facultad de Administracion Finanzas E Informatica](http://fafi.utb.edu.ec/) de la [Universidad Técnica de Babahoyo](https://utb.edu.ec/).
--:technologist: Desarrollador Backend con Java y Spring Boot.
--:computer: Me apasiona crear soluciones eficientes usando software como herramienta clave.
--:student: He participado en proyectos universitarios de investigación y desarrollo de software.
--:books: Actualmente sigo aprendiendo sobre API's y Microservicios.
--:email: [alexander.96cr@gmail.com](https://mail.google.com) 
+- :school: Soy Ingeniero en Sistemas de Información, de la [Facultad de Administracion Finanzas E Informatica](http://fafi.utb.edu.ec/) de la [Universidad Técnica de Babahoyo](https://utb.edu.ec/).
+- :technologist: Desarrollador Backend con Java y Spring Boot.
+- :computer: Me apasiona crear soluciones eficientes usando software como herramienta clave.
+- :student: He participado en proyectos universitarios de investigación y desarrollo de software.
+- :books: Actualmente sigo aprendiendo sobre API's y Microservicios.
+- :email: [alexander.96cr@gmail.com](https://mail.google.com) 
 <br>
 
 
 ## 📞 Contacto
 <p align="center">
 	<a href="alexander.96cr@gmail.com"><img img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" width="50px"/></a>
-	<a href="https://github.com/AlexanderCR96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" width="50px"/></a>
 	<a href="https://www.linkedin.com/in/alexander-coello"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50px"/></a>
+	<a href="https://github.com/AlexanderCR96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" width="50px"/></a>	
 	<a href="https://discord.com/channels/@me"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="LinkedIn" width="50px"/></a>
 </p>
 
