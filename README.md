@@ -30,28 +30,28 @@
 ## 🛠️ Mis Herramientas
 
 <p align="center"> 
-
-  <a href="https://www.java.com" target="_blank"> 
+&emsp;
+  <a href="https://www.java.com"> 
     <img alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50px">
   </a>
-
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+&emsp;
+  <a href="https://spring.io/projects/spring-boot"> 
      <img alt="SpringBoot" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50px">
    </a>
-  
-   <a href="https://www.mysql.com/" target="_blank">
+  &emsp;
+   <a href="https://www.mysql.com/">
     <img alt="MySql" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50px">
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank"> 
+  &emsp;
+  <a href="https://git-scm.com/"> 
    <img alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50px">
   </a>   
-
-  <a href="https://www.postman.com/" target="_blank">
+&emsp;
+  <a href="https://www.postman.com/">
     <img alt="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50px">
   </a> 
-
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
+&emsp;
+  <a href="https://www.jetbrains.com/idea/">
     <img alt="Intellij Idea" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50px">
   </a>
 </p>
