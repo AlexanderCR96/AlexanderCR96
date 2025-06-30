@@ -1,4 +1,4 @@
-<h1 align="center">Hola , Soy Alexander Coello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Soy Alexander <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 
 
-Contact0
+## 📞 Contacto
 <p align="center">
 	<a href="alexander.96cr@gmail.com"><img img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="50px"/></a>
 	<a href="https://github.com/AlexanderCR96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50px"/></a>
@@ -30,27 +30,27 @@ Contact0
 ## 🛠️ Mis Herramientas
 
 <p align="center"> 
-  &emsp;
+
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50px">
   </a>
-  &emsp;
+
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
      <img alt="SpringBoot" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50px">
    </a>
-  &emsp;
+  
    <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySql" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50px">
   </a>
-  &emsp; 
+  
   <a href="https://git-scm.com/" target="_blank"> 
    <img alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50px">
   </a>   
-  &emsp;
+
   <a href="https://www.postman.com/" target="_blank">
     <img alt="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50px">
   </a> 
-  &emsp;
+
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img alt="Intellij Idea" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50px">
   </a>
@@ -188,8 +188,3 @@ Contact0
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
