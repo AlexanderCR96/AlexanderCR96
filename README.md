@@ -19,8 +19,11 @@
 
 ## 📞 Contacto
 <p align="center">
+	&emsp;
 	<a href="alexander.96cr@gmail.com"><img img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Gmail" width="50px"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/alexander-coello"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50px"/></a>
+	&emsp;
 	<a href="https://discord.com/channels/@me"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="LinkedIn" width="50px"/></a>
 </p>
 
