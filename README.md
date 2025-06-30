@@ -17,7 +17,7 @@
 <br>
 
 
-Contactame
+Contact0
 <p align="center">
 	<a href="alexander.96cr@gmail.com"><img img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="50px"/></a>
 	<a href="https://github.com/AlexanderCR96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50px"/></a>
@@ -30,7 +30,6 @@ Contactame
 ## 🛠️ Mis Herramientas
 
 <p align="center"> 
-  
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50px">
@@ -43,8 +42,6 @@ Contactame
    <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySql" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50px">
   </a>
-</p>
-<p align="center"> 
   &emsp; 
   <a href="https://git-scm.com/" target="_blank"> 
    <img alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50px">
