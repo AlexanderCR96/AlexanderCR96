@@ -8,12 +8,12 @@
 
 <br><br>
 
-:school: Soy Ingeniero en Sistemas de Información, de la [Facultad de Administracion Finanzas E Informatica](http://fafi.utb.edu.ec/) de la [Universidad Técnica de Babahoyo](https://utb.edu.ec/).
-:technologist: Desarrollador Backend con Java y Spring Boot.
-:computer: Me apasiona crear soluciones eficientes usando software como herramienta clave.
-:student: He participado en proyectos universitarios de investigación y desarrollo de software.
-:books: Actualmente sigo aprendiendo sobre API's y Microservicios.
-:email: [alexander.96cr@gmail.com](https://mail.google.com) 
+-:school: Soy Ingeniero en Sistemas de Información, de la [Facultad de Administracion Finanzas E Informatica](http://fafi.utb.edu.ec/) de la [Universidad Técnica de Babahoyo](https://utb.edu.ec/).
+-:technologist: Desarrollador Backend con Java y Spring Boot.
+-:computer: Me apasiona crear soluciones eficientes usando software como herramienta clave.
+-:student: He participado en proyectos universitarios de investigación y desarrollo de software.
+-:books: Actualmente sigo aprendiendo sobre API's y Microservicios.
+-:email: [alexander.96cr@gmail.com](https://mail.google.com) 
 <br>
 
 
