@@ -48,9 +48,9 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg"  width="50px"></a>
-  &emsp;
-    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"  width="50px"></a>
+    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg"  width="50px"></a> 
+ &emsp;
+    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Light.svg"  width="50px"></a>
 </p>
 
 <br> 
