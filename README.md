@@ -59,8 +59,7 @@
 
 <br> 
 	
-## summary><h3>  Mis Repositorios </h3></summary>
-
+## <h3>  Mis Repositorios </h3>
 ----
 
 </details>
