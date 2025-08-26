@@ -66,7 +66,7 @@
 <div>
   <p align="center">
 		<a href="https://github.com/AlexanderCR96/Api-Users-Products">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderCR96&repo=Alexander-Coello&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
