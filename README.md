@@ -60,9 +60,7 @@
 <br> 
 	
 ## <h3>  Mis Repositorios </h3>
-----
 
-</details>
 
 </br></br>
 	
